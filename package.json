@@ -1,0 +1,15 @@
+{
+  "name": "study-assistant-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Study Assistant Bot for NEET & Exams",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.5",
+    "node-cron": "^3.0.3",
+    "fs-extra": "^11.2.0"
+  }
+}
